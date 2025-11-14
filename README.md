@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe-ONLINE
 
 Tic-Tac-Toe in C++ using Boost.Asio (terminal-based)
 
@@ -8,7 +8,7 @@ Tic-Tac-Toe in C++ using Boost.Asio (terminal-based)
 2. Both players start the client on their computers and enter the IP address of the device running the server.  
 3. After connecting, players can start the game; the first player to connect goes first (X).
 
-# Крестики-нолики
+# Крестики-нолики-ОНЛАЙН
 
 Игра крестики-нолики, терминальная, реализованная на C++ с использованием библиотеки Boost.Asio
 
